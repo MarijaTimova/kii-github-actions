@@ -48,5 +48,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: MarijaTimova/kii-demo-01:latest
+          tags: marijatimova/kii:latest
   
